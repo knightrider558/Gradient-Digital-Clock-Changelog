@@ -32,15 +32,15 @@ Clockface design for the Fitbit watches (Versa, Ionic), [Gallery Link](https://g
 
 ### Versa
 
-![](Project/screenshots/versaAnimatedPNG.png)
-![](Project/screenshots/versa_1.png)
+![](screenshots/versaAnimatedPNG.png)
+![](screenshots/versa_1.png)
 
-![](Project/screenshots/versa_2.png)
-![](Project/screenshots/versa_3.png)
+![](screenshots/versa_2.png)
+![](screenshots/versa_3.png)
 
 ### Ionic
 
-![](Project/screenshots/ionicAnimatedPNG.png)
-![](Project/screenshots/ionic_1.png)
-![](Project/screenshots/ionic_2.png)
-![](Project/screenshots/ionic_3.png)
+![](screenshots/ionicAnimatedPNG.png)
+![](screenshots/ionic_1.png)
+![](screenshots/ionic_2.png)
+![](screenshots/ionic_3.png)
