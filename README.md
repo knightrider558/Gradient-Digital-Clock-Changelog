@@ -11,7 +11,7 @@ Clockface design for the Fitbit watches (Versa, Ionic), [Gallery Link](https://g
 ### Changelog v1.0.1
 ```
 - 100+ colour.
-- Beautifil gradient color for clock (time.
+- Beautifil gradient color for clock time.
 - Battery optimized code.
 - Animations for the heartbeat.
 - Cycle between activities in the last circle box.
@@ -19,7 +19,7 @@ Clockface design for the Fitbit watches (Versa, Ionic), [Gallery Link](https://g
 
 ### Known issues
 ```
-- Yesterday's activity is not working with the following activities (Active Minute, Elevation).
+- Yesterday's activity is not working with the following activities (Active Minute).
 ```
 
 ### Future enhancements
